@@ -1,6 +1,5 @@
-# CS411 Section A5 Team 8  Team members: Dongyue Xu, Alyssa, Jordan, Frederic, Yash
+# Soccer Match Brewery Finder App
 CS411 Group Project proposal
-Project topic: Soccer Match Brewery Finder
 
 The idea is that the user inputs a soccer game they are intending to attend and in return gets breweries closest to the match's stadium for event planning. 
 We will use the Football API for the soccer games match and venue coordinates
